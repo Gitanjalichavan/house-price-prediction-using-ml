@@ -6,9 +6,7 @@ __pycache__/
 *.pyd
 *.ipynb_checkpoints/
 
-# Reports & images (generated)
-reports/
-images/
+
 
 # Environments
 .env
